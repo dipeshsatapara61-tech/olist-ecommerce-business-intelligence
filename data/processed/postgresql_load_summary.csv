@@ -1,0 +1,10 @@
+table,records_loaded,status
+customers,99441,SUCCESS
+products,32951,SUCCESS
+sellers,3095,SUCCESS
+category_translation,71,SUCCESS
+geolocation,738332,SUCCESS
+orders,99441,SUCCESS
+order_items,112650,SUCCESS
+payments,103886,SUCCESS
+reviews,99224,SUCCESS

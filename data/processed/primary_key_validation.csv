@@ -1,0 +1,9 @@
+dataset,candidate_key,duplicate_key_records
+olist_customers_dataset.csv,customer_id,0
+olist_order_items_dataset.csv,"order_id, order_item_id",0
+olist_order_payments_dataset.csv,"order_id, payment_sequential",0
+olist_order_reviews_dataset.csv,review_id,814
+olist_orders_dataset.csv,order_id,0
+olist_products_dataset.csv,product_id,0
+olist_sellers_dataset.csv,seller_id,0
+product_category_name_translation.csv,product_category_name,0
