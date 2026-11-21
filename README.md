@@ -224,6 +224,7 @@ Ecommerce-Business-Intelligence/
 ├── reports/
 │   ├── Business_Analysis_Report.pdf
 │   ├── Data_Quality_Report.pdf
+│   ├── SQL_Code_and_Analysis_Report.pdf
 │   ├── Dashboard_Executive_Overview.png
 │   ├── Dashboard_Sales_Analysis.png
 │   ├── Dashboard_Seller_Customer.png
