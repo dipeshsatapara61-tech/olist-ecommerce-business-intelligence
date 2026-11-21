@@ -222,6 +222,7 @@ Ecommerce-Business-Intelligence/
 │   └── 03_Customer_Analysis.ipynb
 │
 ├── reports/
+│   ├── Olist_Ecommerce_Business_Intelligence_Project_Documentation.pdf
 │   ├── Business_Analysis_Report.pdf
 │   ├── Data_Quality_Report.pdf
 │   ├── SQL_Code_and_Analysis_Report.pdf
